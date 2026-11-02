@@ -38,11 +38,3 @@ Under the tested configuration, ReLU achieved higher validation accuracy than Si
 ### Sigmoid
 
 ![Sigmoid Training Curves](results/curves_sigmoid.png)
-
-## Key Learnings
-
-- Understanding forward propagation and backpropagation
-- Implementing neural network weight updates using NumPy
-- Comparing activation functions
-- Evaluating model performance using accuracy and loss
-- Understanding generalization and potential overfitting
