@@ -1,8 +1,10 @@
 ## Project Overview
 
-This project reconstructs a multilayer perceptron (MLP) using Python and NumPy to classify four Fashion-MNIST clothing categories: T-shirt/top, Pullover, Coat, and Shirt.
+This project implements a Multilayer Perceptron (MLP) using Python and NumPy to classify four Fashion-MNIST clothing categories: T-shirt/top, Pullover, Coat, and Shirt.
 
-The main objective is to understand the fundamentals of neural network training through manual implementation of forward propagation, backpropagation, and gradient descent without relying on deep learning frameworks.
+The project focuses on understanding neural network fundamentals through the implementation of forward propagation, backpropagation, and gradient descent without relying on deep learning frameworks such as TensorFlow or PyTorch.
+
+It also compares ReLU and Sigmoid activation functions to evaluate their impact on classification accuracy and training performance.
 
 ## Technologies
 
